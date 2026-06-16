@@ -1,20 +1,23 @@
 ---
-title: Welcome to FARP! 
-description: Get started building enterprise web applications with modern technologies.
+title: Learn Web Development! 
+description: Get started building enterprise web applications and websites with modern technologies.
 # template: splash # Remove or comment out this line to display the site sidebar on this page.
 hero:
-  tagline: Get started building enterprise web applications with modern technologies.
+  tagline: Get started building enterprise web applications and websites with modern technologies.
   image:
     file: ../../assets/houston.webp
   actions:
-    - text: Let's Go!
+    - text: Web App Dev
       link: /farp/getting-started/
+      icon: right-arrow
+    - text: Website Dev
+      link: /ant/getting-started/
       icon: right-arrow
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## Web App Dev with the FARP Stack
 
 <CardGrid stagger>
 	<Card title="FastAPI" icon="seti:python">
@@ -28,5 +31,19 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 	</Card>
 	<Card title="PostgreSQL" icon="seti:db">
 		Leverage the robust database ecosystem of PostgreSQL.
+	</Card>
+</CardGrid>
+
+## Website Dev with the ANT Stack
+
+<CardGrid stagger>
+	<Card title="Astro" icon="astro">
+		Use Astro to manage the HTML, CSS, and JavaScript of your site.
+	</Card>
+	<Card title="NGINX" icon="server">
+		Serve sites in production with NGINX.
+	</Card>
+	<Card title="Tailwind" icon="seti:css">
+		Style with the composability of Tailwind.
 	</Card>
 </CardGrid>

@@ -1,5 +1,5 @@
 ---
-title: FARP Stack - 1. FastAPI and SQLModel
-description: How to create a CRUD app with a SQLite database.
+title: FARP Stack - 2. Docker and PostgreSQL
+description: Use Docker to connect your app to a PostgreSQL database server.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: FARP Stack - 1. FastAPI and SQLModel
-description: How to create a CRUD app with a SQLite database.
+title: FARP Stack - 4. React Admin
+description: Create a dashboard with React Admin.
 ---
 

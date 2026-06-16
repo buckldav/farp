@@ -1,5 +1,5 @@
 ---
-title: FARP Stack - 1. FastAPI and SQLModel
-description: How to create a CRUD app with a SQLite database.
+title: FARP Stack - 6. Casdoor Authentication
+description: Use Casdoor for OAuth Token Authentication
 ---
 
