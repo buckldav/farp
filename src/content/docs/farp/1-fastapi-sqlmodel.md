@@ -3,6 +3,8 @@ title: FARP Stack - 1. FastAPI and SQLModel
 description: How to create a CRUD app with a SQLite database.
 ---
 
+Example project: [https://github.com/buckldav/web/tree/main/farp/step1](https://github.com/buckldav/web/tree/main/farp/step1)
+
 ## Introduction
 
 Any significant enterprise software application uses several languages and technologies because each language has a job that they are optimal for. For example, a woodworking project would utilize different saws, hammers, drills, and other tools. In our application, here are descriptions of each technology and their role as tools in your ecosystem.
