@@ -6,8 +6,8 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'cs.dbuckley.dev',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/buckldav/cs' }],
+			title: 'farp.dbuckley.dev',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/buckldav/farp' }],
 			sidebar: [
 				{
 					label: 'FARP Stack',
